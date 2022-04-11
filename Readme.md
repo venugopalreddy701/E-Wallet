@@ -2,7 +2,7 @@
 
 This is backend project , clone of E-wallet application using Spring Boot .
 
-video demo [link][https://www.youtube.com/watch?v=QcZKsbgsLa4]
+video demo [link](https://youtu.be/7DcsqDxD3Xg)
 
 ## Features
 
